@@ -142,9 +142,6 @@ How to Run the Project
 Clone the repository:
 git clone https://github.com/jasneetsingh1141/diabetes-classification-project.git
 
-Open the notebook:
-cd diabetes-classification-project
-
 Run the notebook in:
 Jupyter Notebook OR
 Google Colab
